@@ -1,0 +1,6 @@
+{
+  "name": "shotclock",
+  "version": "0.1.0",
+  "description": "Arcade basketball in a pane that opens while Claude works",
+  "types": "./types/index.d.ts"
+}
